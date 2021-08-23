@@ -28,6 +28,7 @@ Intricate and sophisticated hud made for [QBCore Framework](https://github.com/q
 * Stress reduction and gaining registers
 
 # Preview
+### IF YOU WANT THE RADAR (MINIMAP) SHOWN IN THESE DEMONSTRATION VIDEOS, LOOK AT OUR RECOMMENDATIONS ABOVE! 🎉
 
 https://user-images.githubusercontent.com/52267651/130407076-2116950d-0d61-454c-91ee-e5bbec7f89b5.mp4
 
