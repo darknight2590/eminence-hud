@@ -67,7 +67,7 @@ ensure qb-smallresources
 ## Ignore if you ARE NOT using our recommened list above!
 * Download `qb-radar` and put it in the `[resources]` directory.
 * Download `qb-navigation` and put it in the `[resources]` directory.
-* Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
+* Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` then drag and drop our `[seatbelt.lua]` inside of the `[client]` folder.
 * Download `qb-sound` and put it in the `[resources]` directory.
 * Add the following code to your server.cfg/resouces.cfg
 ```
