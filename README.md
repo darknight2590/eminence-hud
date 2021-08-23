@@ -15,9 +15,9 @@ Intricate and sophisticated hud made for [QBCore Framework](https://github.com/q
 * [mumble-voip](https://github.com/FrazzIe/mumble-voip-fivem)
 
 # Our Recommendations for the full hud experience!
-* [qb-radar](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
-* [qb-sound](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
-* [qb-sound](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
+* [qb-radar](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud :)
+* [qb-seatbelt](https://github.com/Eminence-Studios/qb-seatbelt) - you're definitely going to want this seatbelt script, it goes perfect with our hud :)
+* [qb-sound](https://github.com/Eminence-Studios/qb-sound) - you're definitely going to want these sounds, it goes perfect with our hud :)
 
 # Features
 * Voice proximity radial icon displayed when [shouting, talking normally, or whispering]
@@ -59,15 +59,19 @@ https://user-images.githubusercontent.com/52267651/130405390-41adf138-7028-4b3a-
 ```
 ensure LegacyFuel
 ensure mumble-voip
-ensure compass
+ensure qb-navigation
 ensure eminence-hud
 ensure qb-smallresources
 ```
 ## Ignore if you ARE NOT using our recommened list above!
+* Download `qb-radar` and put it in the `[resources]` directory.
+* Download `qb-navigation` and put it in the `[resources]` directory.
 * Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
 * Download `qb-sound` and put it in the `[resources]` directory.
 * Add the following code to your server.cfg/resouces.cfg
 ```
+ensure qb-radar
+ensure qb-navigation
 ensure qb-sound
 ```
 
