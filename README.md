@@ -10,11 +10,14 @@ Intricate and sophisticated hud made for [QBCore Framework](https://github.com/q
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework) ❤️
+* [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources)
 * [LegacyFuel](https://github.com/qbcore-framework/LegacyFuel)
 * [mumble-voip](https://github.com/FrazzIe/mumble-voip-fivem)
 
-# Our Recommendations!
+# Our Recommendations for the full hud experience!
 * [qb-radar](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
+* [qb-sound](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
+* [qb-sound](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud
 
 # Features
 * Voice proximity radial icon displayed when [shouting, talking normally, or whispering]
@@ -26,6 +29,7 @@ Intricate and sophisticated hud made for [QBCore Framework](https://github.com/q
 * Nitrous radial icon indicator displayed
 * Fuel meter registers
 * Stress reduction and gaining registers
+* Harness registers (does not display an icon yet, update soon)
 
 # Preview
 ### IF YOU WANT THE RADAR (MINIMAP) SHOWN IN THESE DEMONSTRATION VIDEOS, LOOK AT OUR RECOMMENDATIONS ABOVE! 🎉
@@ -50,14 +54,23 @@ https://user-images.githubusercontent.com/52267651/130405390-41adf138-7028-4b3a-
 * Download `eminence-hud` and put it in the `[resources]` directory.
 * Download `LegacyFuel` and put it in the `[resources]` directory.
 * Download `mumble-voip` and put it in the `[resources]` directory.
-* Put `compass` in the `[resources]` directory.
+* Put `qb-navigation` in the `[resources]` directory.
 * Add the following code to your server.cfg/resouces.cfg **[IN THIS EXACT ORDER OF IMPORTANCE!]**
 ```
 ensure LegacyFuel
 ensure mumble-voip
 ensure compass
 ensure eminence-hud
+ensure qb-smallresources
 ```
+## Ignore if you ARE NOT using our recommened list above!
+* Download `qb-seatbelt` and open our exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
+* Download `qb-sound` and put it in the `[resources]` directory.
+* Add the following code to your server.cfg/resouces.cfg **[IN THIS EXACT ORDER OF IMPORTANCE!]**
+```
+ensure qb-sound
+```
+
 # Change Logs
 ### 0.0.1
 * Initial release
