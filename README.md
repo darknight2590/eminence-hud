@@ -64,9 +64,9 @@ ensure eminence-hud
 ensure qb-smallresources
 ```
 ## Ignore if you ARE NOT using our recommened list above!
-* Download `qb-seatbelt` and open our exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
+* Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
 * Download `qb-sound` and put it in the `[resources]` directory.
-* Add the following code to your server.cfg/resouces.cfg **[IN THIS EXACT ORDER OF IMPORTANCE!]**
+* Add the following code to your server.cfg/resouces.cfg
 ```
 ensure qb-sound
 ```
