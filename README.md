@@ -16,7 +16,7 @@ Intricate and sophisticated hud made for [QBCore Framework](https://github.com/q
 
 # Our Recommendations for the full hud experience!
 * [qb-radar](https://github.com/Eminence-Studios/qb-radar) - you're definitely going to want this radar (minimap), it goes perfect with our hud :)
-* [qb-navigation](https://github.com/Eminence-Studios/qb-navigation) - you're definitely going to want this radar (minimap), it goes perfect with our hud :)
+* [qb-navigation](https://github.com/Eminence-Studios/qb-navigation) - you're definitely going to want this radar compass and street navigation, it goes perfect with our hud :)
 * [qb-seatbelt](https://github.com/Eminence-Studios/qb-seatbelt) - you're definitely going to want this seatbelt script, it goes perfect with our hud :)
 * [qb-sound](https://github.com/Eminence-Studios/qb-sound) - you're definitely going to want these sounds, it goes perfect with our hud :)
 
