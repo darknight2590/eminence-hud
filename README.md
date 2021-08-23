@@ -58,6 +58,9 @@ ensure mumble-voip
 ensure compass
 ensure eminence-hud
 ```
+# Change Logs
+### 0.0.1
+* Initial release
 
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep **[Suggestion]** in the title to make it clear that it is a suggestion.
