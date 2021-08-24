@@ -2,7 +2,8 @@
 
 # eminence-hud
 Intricate and sophisticated hud made for [QBCore Framework](https://github.com/qbcore-framework). Inspired by [NoPixel](https://www.nopixel.net/). :green_heart: 
-Handcrafted by yours truly, [GlacielGaming](https://github.com/GlacielGaming) and [whelanmjoshua](https://github.com/whelanmjoshua for [Eminence Studios](https://github.com/Eminence-Studios). Please do not redistribute without our express permission.
+
+Handcrafted by yours truly, [GlacielGaming](https://github.com/GlacielGaming) and [whelanmjoshua](https://github.com/whelanmjoshua) for [Eminence Studios](https://github.com/Eminence-Studios). Please do not redistribute without our express permission.
 
 # Credits
 * All credits for our voice proximity system goes to [mumble-voip](https://github.com/FrazzIe/mumble-voip-fivem)
